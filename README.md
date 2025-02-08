@@ -198,7 +198,7 @@ curl --location --request PATCH 'http://localhost:8000/api/choice/update/[choice
 * Request method: DELETE
 * URL: http://localhost:8000/api/choice/update/[choice_id]/
 * Header:
-    * Authorization: Token userToken
+    * Authorization: Token userToken.
 * Param:
     * choice_id
 * Example:
